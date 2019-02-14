@@ -1,0 +1,169 @@
+1. https://www.cancer.org/research/cancer-facts-statistics/all-cancer-facts-figures/cancer-facts-figures-2018.html
+2. Fritz AG, Jack A, Parkin D, Percy C, Shanmugarathan S, Sobin L, et al. International classification of diseases
+for oncology: ICD-O, Third Edition. World Health Organization; 2000.
+
+3.Adamo MB, Johnson CH, Ruhl JL, Dickie LA. SEER Program Coding and Staging Manual 2012. National
+Cancer Institute, NIH Publication number 12-5581; 2012.
+
+4. Joachims, Thorsten & Ls, Informatik & Str, Baroper. (1999). Text Categorization with Support Vector Machines: Learning with Many Relevant Features. .
+
+5.Y. Ng, Andrew & Jordan, Michael. (2002). On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes. Adv. Neural Inf. Process. Sys. 2. 
+
+6.Peng, Fuchun & Schuurmans, Dale. (2002). Combining Naive Bayes and n-Gram Language Models for Text Classification. Advances in Information Retrieval. 2633. 10.1007/3-540-36618-0_24. 
+
+7..Anni Coden, Guergana Savova, Igor Sominsky, Michael Tanenblatt, James Masanz,  Karin Schuler, James Cooper, Wei Guan, and Piet C de Groen. 2009. Automatically extracting cancer disease characteristics from pathology reports into a disease knowledge representation model. Journal of Biomedical Informatics, 42:937–949.
+
+8.Cheng, Lionel & Zheng, Jiaping & K Savova, Guergana & Erickson, Bradley. (2009). Discerning Tumor Status from Unstructured MRI Reports—Completeness of Information in Existing Reports and Utility of Automated Natural Language Processing. Journal of digital imaging : the official journal of the Society for Computer Applications in Radiology. 23. 119-32. 10.1007/s10278-009-9215-7.       
+
+9.Li, Yue & Martinez, David. (2010). Information Extraction of Multiple Categories from Pathology Reports.                               
+
+10. Anthony N Nguyen, Michael J Lawley, David P Hansen, Rayleen V Bowman, Belinda E Clarke, Edwina E Duhig, and Shoni Colquist. 2010. Symbolic rule-based classification of lung cancer stages from free-text pathology reports. Journal of the American Medical Informatics Association (JAMIA), 17:440–445.
+
+11.Cunningham H, Maynard D, Bontcheva K, et al. GATE: a framework and graphical
+development environment for robust NLP tools and applications. Proceedings of the
+40th Anniversary Meeting of the Association for Computational Linguistics; July 2002,
+Philadelphia; 2002.
+
+12.International Health Terminology Standards Development Organisation.
+SNOMED Clinical Terms User Guide. 2008. http://www.ihtsdo.org (accessed
+Sep 2008).
+
+
+13.Garla, Vijay & Taylor, Caroline & Brandt, Cynthia. (2013). Semi-supervised clinical text classification with Laplacian SVMs: An application to cancer case management. Journal of biomedical informatics. 42. 10.1016/j.jbi.2013.06.014.                 
+
+14. Kavuluru, Ramakanth & Hands, Isaac & B Durbin, Eric & Witt, Lisa. (2013). Automatic Extraction of ICD-O-3 Primary Sites from Cancer Pathology Reports. AMIA Summits on Translational Science proceedings AMIA Summit on Translational Science. 2013. 112-116. 
+
+15. Kalchbrenner, Nal & Grefenstette, Edward & Blunsom, Phil. (2014). A Convolutional Neural Network for Modelling Sentences. 52nd Annual Meeting of the Association for Computational Linguistics, ACL 2014 - Proceedings of the Conference. 1. 10.3115/v1/P14-1062.                               
+
+16.Kim, Yoon. (2014). Convolutional Neural Networks for Sentence Classification. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing. 10.3115/v1/D14-1181. 				
+
+17. Oleynik, Michel & Patrão, Diogo & Finger, Marcelo. (2015). Automated Classification of Pathology Reports. Studies in health technology and informatics. 216. 10.3233/978-1-61499-564-7-1040. 		
+
+18. Oleynik, Michel & Patrão, Diogo & Finger, Marcelo. (2017). Automated Classification of Semi-Structured Pathology Reports into ICD-O Using SVM in Portuguese. Studies in health technology and informatics. 235. 10.3233/978-1-61499-753-5-256.       
+
+19.  V. Jouhet; G. Defossez; A. Burgun; P. le Beux; P.Levillain,; P. Ingrand1; V. Claveau. Automated Classification of Free-text Pathology Reports for Registration of Incident Cases of Cancer. Methods Inf Med 2012; 51: 242 – 251 doi:0.3414/ME11-01-000                               
+
+20. Nguyen A, Moore J, Zuccon G, Lawley M, Colquist S.  Classification of pathology reports for cancer registry notifications. Studies in Health Technology and Informatics, Pgs 150-156, doi:10.3233/978-1-61499-078-9-150              
+
+  
+
+22.Löpprich M1, Krauss F, Ganzinger M, Senghas K, Riezler S, Knaup P.  Automated Classification of Selected Data Elements from Free-text Diagnostic Reports for Clinical Research. Methods Inf Med 2016; 55(04): 373-380 . DOI: 10.3414/ME15-02-0019
+
+23.Li, Peng & Huang, Heng. (2016). Clinical Information Extraction via Convolutional Neural Network.
+								
+24.N Jagannatha, Abhyuday & Yu, Hong. (2016). Bidirectional RNN for Medical Event Detection in Electronic Health Records. Proceedings of the conference. Association for Computational Linguistics. North American Chapter. Meeting. 2016. 473-482.   
+
+25. Mujtaba G, Shuib L, Raj RG, Rajandram R, Shaikh K, Al-Garadi MA (2017) Automatic ICD-10 multi-class classification of cause of death from plaintext autopsy reports through expert-driven feature selection. PLoS ONE 12(2): e0170242. doi:10.1371/journal.pone.0170242
+					
+
+26.Qui et. al., Deep Learning for Automated Extraction of Primary Sites From Cancer Pathology Reports,IEEE Journal of Biomedical and Health Informatics, Vol. 22, No. 1, January 2018							
+
+
+27.Yang, Zichao & Yang, Diyi & Dyer, Chris & He, Xiaodong & Smola, Alex & Hovy, Eduard. (2016). Hierarchical Attention Networks for Document Classification. 1480-1489. 10.18653/v1/N16-1174. 					
+
+28. Gao,Shang & Young,Michael T &  Qiu,John X  & Hong-Jun Yoon &  James B & Christian Fearn & Paul A  & Tourassi,Georgia D & Arvind Ramanathan.Hierarchical attention networks for information extraction from cancer pathology reports . Journal of the American Medical Informatics Association, Volume 25, Issue 3, 1 March 2018, Pages 321–330, https://doi.org/10.1093/jamia/ocx131         
+
+
+------------------original refernces:
+11. Friedman, C., Alderson, P. O., Austin, J. H., Cimino, J. J., & Johnson, S. B. (1994). A general natural-language text processor for clinical radiology. Journal of the American Medical Informatics Association, 1(2), 161-174.
+54. Friedman, C., Alderson, P. O., Austin, J. H., Cimino, J. J., & Johnson, S. B. (1994). A general natural-language text processor for clinical radiology. Journal of the American Medical Informatics Association, 1(2), 161-174.
+15. Hripcsak, G., Friedman, C., Alderson, P. O., DuMouchel, W., Johnson, S. B., & Clayton, P. D. (1995). Unlocking clinical data from narrative reports: a study of natural language processing. Annals of internal medicine, 122(9), 681-688.
+1.Joachims, T. (1996). A Probabilistic Analysis of the Rocchio Algorithm with TFIDF for Text Categorization (No. CMU-CS-96-118). Carnegie-mellon univ pittsburgh pa dept of computer science.
+
+10.Bull, A. D., Biffin, A. H., Mella, J., Radcliffe, A. G., Stamatakis, J. D., Steele, R. J., & Williams, G. T. (1997). Colorectal cancer pathology reporting: a regional audit. Journal of clinical pathology, 50(2), 138-142.
+2.Joachims, T. (1998, April). Text categorization with support vector machines: Learning with many relevant features. In European conference on machine learning (pp. 137-142). Springer, Berlin, Heidelberg.
+61.Nigam, K., Lafferty, J., & McCallum, A. (1999, August). Using maximum entropy for text classification. In IJCAI-99 workshop on machine learning for information filtering (Vol. 1, pp. 61-67).
+66. Furey, T. S., Cristianini, N., Duffy, N., Bednarski, D. W., Schummer, M., & Haussler, D. (2000). Support vector machine classification and validation of cancer tissue samples using microarray expression data. Bioinformatics, 16(10), 906-914.
+
+57. Friedman, C. (2000). A broad-coverage natural language processing system. In Proceedings of the AMIA Symposium(p. 270). American Medical Informatics Association.
+62. Lafferty, J., McCallum, A., & Pereira, F. C. (2001). Conditional random fields: Probabilistic models for segmenting and labeling sequence data.
+63.Stearns, M. Q., Price, C., Spackman, K. A., & Wang, A. Y. (2001). SNOMED clinical terms: overview of the development process and project status. In Proceedings of the AMIA Symposium (p. 662). American Medical Informatics Association.
+
+14. Hripcsak, G., Austin, J. H., Alderson, P. O., & Friedman, C. (2002). Use of natural language processing to translate clinical information from a database of 889,921 chest radiographic reports. Radiology, 224(1), 157-163.
+56. Cunningham, H. (2002). GATE, a general architecture for text engineering. Computers and the Humanities, 36(2), 223-254.
+9. Branston, L. K., Greening, S., Newcombe, R. G., Daoud, R., Abraham, J. M., Wood, F., ... & Williams, G. T. (2002). The implementation of guidelines and computerised forms improves the completeness of cancer pathology reporting. The CROPS project: a randomised controlled trial in pathology. European Journal of Cancer, 38(6), 764-772
+8. Wilkinson, N. W., Shahryarinejad, A., Winston, J. S., Watroba, N., & Edge, S. B. (2003). Concordance with breast cancer pathology reporting practice guidelines. Journal of the American College of Surgeons, 196(1), 38-43.
+
+7. Beattie, G. C., McAdam, T. K., Elliott, S., Sloan, J. M., & Irwin, S. T. (2003). Improvement in quality of colorectal cancer pathology reporting with a standardized proforma–a comparative study. Colorectal disease, 5(6), 558-562.
+55.Ferrucci, D., & Lally, A. (2004). UIMA: an architectural approach to unstructured information processing in the corporate research environment. Natural Language Engineering, 10(3-4), 327-348.
+
+72. Fritz, A.G., Jack, A., Parkin, D., Percy, C., Shanmugarathan, S., Sobin, L., et al. (2000). International classification of diseases for oncology: ICD-O . Third Edition . World Health Organization.
+5.Xu, H., Anderson, K., Grann, V. R., & Friedman, C. (2004). Facilitating cancer research using natural language processing of pathology reports. Studies in health technology and informatics, 107(Pt 1), 565-572.
+6.Rubin, M. A., Bismar, T. A., Curtis, S., & Montie, J. E. (2004). Prostate needle biopsy reporting: how are the surgical members of the Society of Urologic Oncology using pathology reports to guide treatment of prostate cancer patients?. The American journal of surgical pathology, 28(7), 946-952.
+13. Friedman, C., Shagina, L., Lussier, Y., & Hripcsak, G. (2004). Automated encoding of clinical documents based on natural language processing. Journal of the American Medical Informatics Association, 11(5), 392-402.
+52. McCowan, I. A., Moore, D. C., Nguyen, A. N., Bowman, R. V., Clarke, B. E., Duhig, E. E., & Fry, M. J. (2007). Collection of cancer stage data by classifying free-text medical reports. Journal of the American Medical Informatics Association, 14(6), 736-745.
+
+
+19. Savova, G., Kipper-Schuler, K., Buntrock, J., & Chute, C. (2008). UIMA-based clinical information extraction system. Towards enhanced interoperability for large HLT systems: UIMA for NLP, 39.
+22. Leaman, R., & Gonzalez, G. (2008). BANNER: an executable survey of advances in biomedical named entity recognition. In Biocomputing 2008 (pp. 652-663).
+45. Meystre, S. M., Savova, G. K., Kipper-Schuler, K. C., & Hurdle, J. F. (2008). Extracting information from textual documents in the electronic health record: a review of recent research. Yearbook of medical informatics, 17(01), 128-144.
+47. Roberts, A., Gaizauskas, R., Hepple, M., Demetriou, G., Guo, Y., Roberts, I., & Setzer, A. (2009). Building a semantically annotated corpus of clinical texts. Journal of biomedical informatics, 42(5), 950-966.
+
+21. Mykowiecka, A., Marciniak, M., & Kupść, A. (2009). Rule-based information extraction from patients’ clinical data. Journal of biomedical informatics, 42(5), 923-936.
+18. Srigley, J. R., McGowan, T., MacLean, A., Raby, M., Ross, J., Kramer, S., & Sawka, C. (2009). Standardized synoptic cancer pathology reporting: A population‐based approach. Journal of surgical oncology, 99(8), 517-524.
+20. Coden, A., Savova, G., Sominsky, I., Tanenblatt, M., Masanz, J., Schuler, K., ... & de Groen, P. C. (2009). Automatically extracting cancer disease characteristics from pathology reports into a Disease Knowledge Representation Model. Journal of biomedical informatics, 42(5), 937-949.
+69. El Naqa, I., Grigsby, P. W., Apte, A., Kidd, E., Donnelly, E., Khullar, D., ... & Thorstad, W. L. (2009). Exploring feature-based approaches in PET images for predicting cancer treatment outcomes. Pattern recognition, 42(6), 1162-1171.
+53. Savova, G. K., Masanz, J. J., Ogren, P. V., Zheng, J., Sohn, S., Kipper-Schuler, K. C., & Chute, C. G. (2010). Mayo clinical Text Analysis and Knowledge Extraction System (cTAKES): architecture, component evaluation and applications. Journal of the American Medical Informatics Association, 17(5), 507-513.
+
+12. Crowley, R. S., Castine, M., Mitchell, K., Chavan, G., McSherry, T., & Feldman, M. (2010). caTIES: a grid based system for coding and retrieval of surgical pathology reports and tissue specimens in support of translational research. Journal of the American Medical Informatics Association, 17(3), 253-264.
+16. D'avolio, L. W., Nguyen, T. M., Farwell, W. R., Chen, Y., Fitzmeyer, F., Harris, O. M., & Fiore, L. D. (2010). Evaluation of a generalizable approach to clinical information retrieval using the automated retrieval console (ARC). Journal of the American Medical Informatics Association, 17(4), 375-382.
+42. Cheng, L. T., Zheng, J., Savova, G. K., & Erickson, B. J. (2010). Discerning tumor status from unstructured MRI reports—completeness of information in existing reports and utility of automated natural language processing. Journal of digital imaging, 23(2), 119-132.
+51. Nguyen, A. N., Lawley, M. J., Hansen, D. P., Bowman, R. V., Clarke, B. E., Duhig, E. E., & Colquist, S. (2010). Symbolic rule-based classification of lung cancer stages from free-text pathology reports. Journal of the American Medical Informatics Association, 17(4), 440-445.
+
+37. Nguyen, A., Moore, J., Lawley, M., Hansen, D., & Colquist, S. (2011). Automatic extraction of cancer characteristics from free-text pathology reports for cancer notifications. Studies in health technology and informatics, 168, 117-124.
+
+43. Martinez, D., & Li, Y. (2011, October). Information extraction from pathology reports in a hospital setting. In Proceedings of the 20th ACM international conference on Information and knowledge management (pp. 1877-1882). ACM.
+50. Xu, H., Fu, Z., Shah, A., Chen, Y., Peterson, N. B., Chen, Q., ... & Denny, J. C. (2011). Extracting and integrating data from entire electronic health records for detecting colorectal cancer cases. In AMIA Annual Symposium Proceedings (Vol. 2011, p. 1564). American Medical Informatics Association.
+
+34. Jouhet, V., Defossez, G., Burgun, A., Le Beux, P., Levillain, P., Ingrand, P., & Claveau, V. (2012). Automated classification of free-text pathology reports for registration of incident cases of cancer. Methods of information in medicine, 51(3), 242.
+35. LAWLEY, M., & COLQUIST, S. (2012, July). Classification of pathology reports for cancer registry notifications. In Health Informatics: Building a Healthcare Future Through Trusted Information: Selected Papers from the 20th Australian National Health Informatics Conference (HIC 2012) (Vol. 178, p. 150). IOS Press.
+59. Wang, T., Wu, D. J., Coates, A., & Ng, A. Y. (2012, November). End-to-end text recognition with convolutional neural networks. In Pattern Recognition (ICPR), 2012 21st International Conference on (pp. 3304-3308). IEEE.
+
+
+23. Leaman, R., Islamaj Doğan, R., & Lu, Z. (2013). DNorm: disease name normalization with pairwise learning to rank. Bioinformatics, 29(22), 2909-2917.
+
+39. Garla, V., Taylor, C., & Brandt, C. (2013). Semi-supervised clinical text classification with Laplacian SVMs: an application to cancer case management. Journal of biomedical informatics, 46(5), 869-875.
+40. Kavuluru, R., Hands, I., Durbin, E. B., & Witt, L. (2013). Automatic extraction of ICD-O-3 primary sites from cancer pathology reports. AMIA Summits on Translational Science Proceedings, 2013, 112.
+41. Lakshmaiah, K. C., Guruprasad, B., Lokesh, K. N., & Veena, V. S. (2014). Cancer notification in India. South Asian journal of cancer, 3(1), 74.
+48. Spasić, I., Livsey, J., Keane, J. A., & Nenadić, G. (2014). Text mining of cancer-related information: review of current status and future directions. International journal of medical informatics, 83(9), 605-623.
+
+
+3.Kalchbrenner, Nal & Grefenstette, Edward & Blunsom, Phil. (2014). A Convolutional Neural Network for Modelling Sentences. 52nd Annual Meeting of the Association for Computational Linguistics, ACL 2014 - Proceedings of the Conference. 10.3115/v1/P14-1062.                               
+4.Kim, Yoon. (2014). Convolutional Neural Networks for Sentence Classification. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing. 10.3115/v1/D14-1181
+29. Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. (2014). Neural machine translation by jointly learning to align and translate. arXiv preprint arXiv:1409.0473
+60.Pennington, J., Socher, R., & Manning, C. (2014). Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 1532-1543).
+17. Hanauer, D. A., Mei, Q., Law, J., Khanna, R., & Zheng, K. (2015). Supporting information retrieval from electronic health records: A report of University of Michigan’s nine-year experience in developing and using the Electronic Medical Record Search Engine (EMERSE). Journal of biomedical informatics, 55, 290-300.
+65. Kourou, K., Exarchos, T. P., Exarchos, K. P., Karamouzis, M. V., & Fotiadis, D. I. (2015). Machine learning applications in cancer prognosis and prediction. Computational and structural biotechnology journal, 13, 8-17.
+21+1. Leaman, R., Khare, R., & Lu, Z. (2015). Challenges in clinical natural language processing for automated disorder normalization. Journal of biomedical informatics, 57, 28-37.
+58. Zhang, X., Zhao, J., & LeCun, Y. (2015). Character-level convolutional networks for text classification. In Advances in neural information processing systems (pp. 649-657).
+
+33. Oleynik, M., Finger, M., & Patrão, D. F. (2015). Automated Classification of Pathology Reports. In MedInfo (p. 1040).
+27. Yang, Z., Yang, D., Dyer, C., He, X., Smola, A., & Hovy, E. (2016). Hierarchical attention networks for document classification. In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies(pp. 1480-1489).
+36. Löpprich, M., Krauss, F., Ganzinger, M., Senghas, K., Riezler, S., & Knaup, P. (2016). Automated classification of selected data elements from free-text diagnostic reports for clinical research. Methods of information in medicine, 55(04), 373-380.
+70. Strickland-Marmol, L. B., Muro-Cacho, C. A., Barnett, S. D., Banas, M. R., & Foulis, P. R. (2016). College of American Pathologists cancer protocols: Optimizing format for accuracy and efficiency. Archives of pathology & laboratory medicine, 140(6), 578-587.
+38. Li, P., & Huang, H. (2016). Clinical information extraction via convolutional neural network. arXiv preprint arXiv:1603.09381.
+44. Napolitano, G., Marshall, A., Hamilton, P., & Gavin, A. T. (2016). Machine learning classification of surgical pathology reports and chunk recognition for information extraction noise reduction. Artificial intelligence in medicine, 70, 77-83.
+
+
+30. Jagannatha, A. N., & Yu, H. (2016, June). Bidirectional RNN for medical event detection in electronic health records. In Proceedings of the conference. Association for Computational Linguistics. North American Chapter. Meeting (Vol. 2016, p. 473). NIH Public Access.
+
+
+
+28. Gao, S., Young, M. T., Qiu, J. X., Yoon, H. J., Christian, J. B., Fearn, P. A., ... & Ramanthan, A. (2017). Hierarchical attention networks for information extraction from cancer pathology reports. Journal of the American Medical Informatics Association, 25(3), 321-330.
+31. Mujtaba, G., Shuib, L., Raj, R. G., Rajandram, R., Shaikh, K., & Al-Garadi, M. A. (2017). Automatic ICD-10 multi-class classification of cause of death from plaintext autopsy reports through expert-driven feature selection. PloS one, 12(2), e0170242.
+
+
+24. Tao, C., Filannino, M., & Uzuner, Ö. (2017). Prescription extraction using CRFs and word embeddings. Journal of biomedical informatics, 72, 60-66.
+26. Qiu, J., Yoon, H. J., Fearn, P. A., & Tourassi, G. D. (2017). Deep learning for automated extraction of primary sites from cancer pathology reports. IEEE journal of biomedical and health informatics, 22(1).
+32. Oleynik, M., Patrão, D. F., & Finger, M. (2017). Automated Classification of Semi-Structured Pathology Reports into ICD-O Using SVM in Portuguese. Studies in health technology and informatics, 235, 256-260.
+46. Yala, A., Barzilay, R., Salama, L., Griffin, M., Sollender, G., Bardia, A., ... & Garber, J. E. (2017). Using machine learning to parse breast pathology reports. Breast cancer research and treatment, 161(2), 203-211.
+
+49. Wang, Y., Wang, L., Rastegar-Mojarad, M., Moon, S., Shen, F., Afzal, N., ... & Liu, H. (2017). Clinical information extraction applications: a literature review. Journal of biomedical informatics.
+
+67. Esteva, A., Kuprel, B., Novoa, R. A., Ko, J., Swetter, S. M., Blau, H. M., & Thrun, S. (2017). Dermatologist-level classification of skin cancer with deep neural networks. Nature, 542(7639), 115.
+68. Kadurin, A., Aliper, A., Kazennov, A., Mamoshina, P., Vanhaelen, Q., Khrabrov, K., & Zhavoronkov, A. (2017). The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology. Oncotarget, 8(7), 10883.
+
+25. Banerjee, I., Chen, M. C., Lungren, M. P., & Rubin, D. L. (2018). Radiology report annotation using intelligent word embeddings: Applied to multi-institutional chest CT cohort. Journal of biomedical informatics, 77, 11-20.
+71.Cancer Committee, College of American Pathologists. Current Cancer Protocols. (2018). http://outage.cap.org/Current_Cancer_Protocols_2018_01.zip. Accessed on: 2018-08-05.
+
+64.American Cancer Society, Inc. (2018). Available online at: https://www.cancer.org/research/cancer-facts-statistics/global.html . Accessed on: 2018-08-04.
