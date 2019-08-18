@@ -2,4 +2,4 @@
 
 # Techniques
 - Clustering
-- 
+- Locally supervised metric learning ([paper link]())
